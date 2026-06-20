@@ -1,0 +1,8 @@
+"""
+server/requirements.txt
+
+Pinned minimal dependencies for the example server.
+"""
+
+Flask>=2.0
+requests>=2.28
